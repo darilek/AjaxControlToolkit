@@ -4,5 +4,11 @@
     "inputFiles": [
       "Scripts/Localization/Resources_cs.js"
     ]
+  },
+  {
+    "outputFileName": "Scripts/AjaxFileUpload.js",
+    "inputFiles": [
+      "Scripts/AjaxFileUpload.js"
+    ]
   }
 ]
